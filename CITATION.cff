@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this platform, please cite both the design specification and the companion paper."
+title: "Sati-Loop: Alignment-Aware Contemplative Cybernetic Platform"
+version: 1.1.0
+date-released: 2026-05-23
+authors:
+  - family-names: Bose
+    given-names: Joy
+    affiliation: "Independent Researcher, Bengaluru, India"
+url: "https://github.com/joyboseroy/sati-loop"
+references:
+  - type: article
+    authors:
+      - family-names: Bose
+        given-names: Joy
+    title: "The Contemplative Alignment Problem: Reward Misspecification in Closed-Loop Meditation Systems"
+    year: 2026
+    url: "https://osf.io/preprints/psyarxiv/"
