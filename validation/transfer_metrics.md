@@ -1,6 +1,3 @@
-# `validation/transfer_metrics.md`
-
-```markdown
 # Transfer Metrics
 
 The primary success criterion of Sati-Loop is transfer improvement during unassisted meditation after device removal.
@@ -87,7 +84,3 @@ The following outcomes are considered alignment failures:
 Transfer metrics remain hypothetical until validated empirically.
 
 Current thresholds and schedules are theoretical design assumptions only.
-
-````
-
----
