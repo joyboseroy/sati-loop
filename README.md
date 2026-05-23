@@ -114,7 +114,7 @@ Use of the name Sati-Loop for any system that rewards proxy contemplative states
 ```
 Bose, J. (2026). Sati-Loop: Design Specification for an Alignment-Aware
 Contemplative Cybernetic Platform, v1.1. GitHub.
-https://github.com/[username]/sati-loop
+https://github.com/joyboseroy/sati-loop
 
 Bose, J. (2026). The Contemplative Alignment Problem: Reward Misspecification
 in Closed-Loop Meditation Systems. PsyArXiv.
