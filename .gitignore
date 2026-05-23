@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# BrainFlow logs and recordings
+*.csv
+*.bin
+brainflow_*.log
+
+# EEG data (never commit raw physiological data)
+datasets/raw/
+datasets/recordings/
+*.edf
+*.bdf
+*.fif
+
+# Models (commit model specs, not trained weights unless small)
+signal_pipeline/models/*.pkl
+signal_pipeline/models/*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive participant data
+protocol/irb/participant_data/
+app/data/
