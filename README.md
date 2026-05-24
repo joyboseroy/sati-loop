@@ -69,7 +69,7 @@ See [STATUS.md](STATUS.md) for what is implemented vs. conceptual.
 
 ## Companion paper
 
-> Bose, J. (2026). *The Contemplative Alignment Problem: Reward Misspecification in Closed-Loop Meditation Systems.* PsyArXiv. https://osf.io/preprints/psyarxiv/
+> Bose, J. (2026). *The Contemplative Alignment Problem: Reward Misspecification in Closed-Loop Meditation Systems.* 
 
 ---
 
@@ -86,7 +86,7 @@ sati-loop/
   requirements.txt
   requirements-dev.txt
   .gitignore
-  paper/               Link to PsyArXiv preprint and figures
+  paper/               Link to preprint and figures
   hardware/            Design spec, BOMs, schematics, STL files
   firmware/            ESP32 code including TDM gating
   signal_pipeline/     Python: fast_features, slow_context, classifier
@@ -117,6 +117,5 @@ Contemplative Cybernetic Platform, v1.1. GitHub.
 https://github.com/joyboseroy/sati-loop
 
 Bose, J. (2026). The Contemplative Alignment Problem: Reward Misspecification
-in Closed-Loop Meditation Systems. PsyArXiv.
-https://osf.io/preprints/psyarxiv/
+in Closed-Loop Meditation Systems. 
 ```
